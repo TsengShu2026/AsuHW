@@ -1,0 +1,71 @@
+Title: 悲情城市
+Genre: 劇情
+Director Name: 侯孝賢
+Studio: 年代國際
+Year: 1989
+
+Title: 飲食男女
+Genre: 喜劇
+Director Name: 李安
+Studio: 中央電影事業股份有限公司
+Year: 1994
+
+Title: 藍色大門
+Genre: 愛情
+Director Name: 易智言
+Studio: 吉光電影有限公司
+Year: 2002
+
+Title: 海角七號
+Genre: 愛情
+Director Name: 魏德聖
+Studio: 果子電影有限公司
+Year: 2008
+
+Title: 艋舺
+Genre: 犯罪
+Director Name: 鈕承澤
+Studio: 青睞影視製作股份有限公司
+Year: 2010
+
+Title: 那些年，我們一起追的女孩
+Genre: 愛情
+Director Name: 九把刀
+Studio: 群星瑞智國際藝能有限公司
+Year: 2011
+
+Title: 賽德克·巴萊
+Genre: 歷史劇情
+Director Name: 魏德聖
+Studio: 果子電影有限公司
+Year: 2011
+
+Title: 刺客聶隱娘
+Genre: 動作
+Director Name: 侯孝賢
+Studio: 光點影業股份有限公司
+Year: 2015
+
+Title: 返校
+Genre: 恐怖
+Director Name: 徐漢強
+Studio: 影一製作所股份有限公司
+Year: 2019
+
+Title: 陽光普照
+Genre: 劇情
+Director Name: 鍾孟宏
+Studio: 本地風光電影股份有限公司
+Year: 2019
+
+Title: 瀑布
+Genre: 劇情
+Director Name: 鍾孟宏
+Studio: 本地風光電影股份有限公司
+Year: 2021
+
+Title: 關於我和鬼變成家人的那件事
+Genre: 喜劇
+Director Name: 程偉豪
+Studio: 金盞花大影業股份有限公司
+Year: 2022
